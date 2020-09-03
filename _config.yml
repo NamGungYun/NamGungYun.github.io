@@ -27,8 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     remote:         false
-    localpath:      "about"
-  - name:           "Theme Download"
+    localpath:      "about_this_Theme"
+  - name:           "Theme_Download"
     remote:         true
     href:           "//github.com/gfjaru/Kiko/releases"
 

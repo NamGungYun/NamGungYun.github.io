@@ -25,7 +25,7 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "about_this_theme"
+  - name:           ""
     remote:         false
     localpath:      "about"
   - name:           "Theme_Download"
